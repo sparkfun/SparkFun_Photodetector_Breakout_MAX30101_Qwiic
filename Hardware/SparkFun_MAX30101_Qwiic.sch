@@ -9,34 +9,34 @@
 </settings>
 <grid distance="0.1" unitdist="inch" unit="inch" style="lines" multiple="1" display="no" altdistance="0.01" altunitdist="inch" altunit="inch"/>
 <layers>
-<layer number="1" name="Top" color="4" fill="1" visible="no" active="no"/>
-<layer number="2" name="Route2" color="1" fill="3" visible="no" active="no"/>
-<layer number="3" name="Route3" color="4" fill="3" visible="no" active="no"/>
-<layer number="4" name="Route4" color="1" fill="4" visible="no" active="no"/>
-<layer number="5" name="Route5" color="4" fill="4" visible="no" active="no"/>
-<layer number="6" name="Route6" color="1" fill="8" visible="no" active="no"/>
-<layer number="7" name="Route7" color="4" fill="8" visible="no" active="no"/>
-<layer number="8" name="Route8" color="1" fill="2" visible="no" active="no"/>
-<layer number="9" name="Route9" color="4" fill="2" visible="no" active="no"/>
-<layer number="10" name="Route10" color="1" fill="7" visible="no" active="no"/>
-<layer number="11" name="Route11" color="4" fill="7" visible="no" active="no"/>
-<layer number="12" name="Route12" color="1" fill="5" visible="no" active="no"/>
-<layer number="13" name="Route13" color="4" fill="5" visible="no" active="no"/>
-<layer number="14" name="Route14" color="1" fill="6" visible="no" active="no"/>
-<layer number="15" name="Route15" color="4" fill="6" visible="no" active="no"/>
-<layer number="16" name="Bottom" color="1" fill="1" visible="no" active="no"/>
-<layer number="17" name="Pads" color="2" fill="1" visible="no" active="no"/>
-<layer number="18" name="Vias" color="2" fill="1" visible="no" active="no"/>
-<layer number="19" name="Unrouted" color="6" fill="1" visible="no" active="no"/>
-<layer number="20" name="Dimension" color="15" fill="1" visible="no" active="no"/>
-<layer number="21" name="tPlace" color="16" fill="1" visible="no" active="no"/>
-<layer number="22" name="bPlace" color="14" fill="1" visible="no" active="no"/>
-<layer number="23" name="tOrigins" color="15" fill="1" visible="no" active="no"/>
-<layer number="24" name="bOrigins" color="15" fill="1" visible="no" active="no"/>
-<layer number="25" name="tNames" color="7" fill="1" visible="no" active="no"/>
-<layer number="26" name="bNames" color="7" fill="1" visible="no" active="no"/>
-<layer number="27" name="tValues" color="7" fill="1" visible="no" active="no"/>
-<layer number="28" name="bValues" color="7" fill="1" visible="no" active="no"/>
+<layer number="1" name="Top" color="4" fill="1" visible="yes" active="no"/>
+<layer number="2" name="Route2" color="1" fill="3" visible="yes" active="no"/>
+<layer number="3" name="Route3" color="4" fill="3" visible="yes" active="no"/>
+<layer number="4" name="Route4" color="1" fill="4" visible="yes" active="no"/>
+<layer number="5" name="Route5" color="4" fill="4" visible="yes" active="no"/>
+<layer number="6" name="Route6" color="1" fill="8" visible="yes" active="no"/>
+<layer number="7" name="Route7" color="4" fill="8" visible="yes" active="no"/>
+<layer number="8" name="Route8" color="1" fill="2" visible="yes" active="no"/>
+<layer number="9" name="Route9" color="4" fill="2" visible="yes" active="no"/>
+<layer number="10" name="Route10" color="1" fill="7" visible="yes" active="no"/>
+<layer number="11" name="Route11" color="4" fill="7" visible="yes" active="no"/>
+<layer number="12" name="Route12" color="1" fill="5" visible="yes" active="no"/>
+<layer number="13" name="Route13" color="4" fill="5" visible="yes" active="no"/>
+<layer number="14" name="Route14" color="1" fill="6" visible="yes" active="no"/>
+<layer number="15" name="Route15" color="4" fill="6" visible="yes" active="no"/>
+<layer number="16" name="Bottom" color="1" fill="1" visible="yes" active="no"/>
+<layer number="17" name="Pads" color="2" fill="1" visible="yes" active="no"/>
+<layer number="18" name="Vias" color="2" fill="1" visible="yes" active="no"/>
+<layer number="19" name="Unrouted" color="6" fill="1" visible="yes" active="no"/>
+<layer number="20" name="Dimension" color="15" fill="1" visible="yes" active="no"/>
+<layer number="21" name="tPlace" color="16" fill="1" visible="yes" active="no"/>
+<layer number="22" name="bPlace" color="14" fill="1" visible="yes" active="no"/>
+<layer number="23" name="tOrigins" color="15" fill="1" visible="yes" active="no"/>
+<layer number="24" name="bOrigins" color="15" fill="1" visible="yes" active="no"/>
+<layer number="25" name="tNames" color="7" fill="1" visible="yes" active="no"/>
+<layer number="26" name="bNames" color="7" fill="1" visible="yes" active="no"/>
+<layer number="27" name="tValues" color="7" fill="1" visible="yes" active="no"/>
+<layer number="28" name="bValues" color="7" fill="1" visible="yes" active="no"/>
 <layer number="29" name="tStop" color="5" fill="5" visible="no" active="no"/>
 <layer number="30" name="bStop" color="7" fill="6" visible="no" active="no"/>
 <layer number="31" name="tCream" color="7" fill="4" visible="no" active="no"/>
@@ -45,8 +45,8 @@
 <layer number="34" name="bFinish" color="6" fill="6" visible="no" active="no"/>
 <layer number="35" name="tGlue" color="7" fill="4" visible="no" active="no"/>
 <layer number="36" name="bGlue" color="7" fill="5" visible="no" active="no"/>
-<layer number="37" name="tTest" color="7" fill="1" visible="no" active="no"/>
-<layer number="38" name="bTest" color="7" fill="1" visible="no" active="no"/>
+<layer number="37" name="tTest" color="7" fill="1" visible="yes" active="no"/>
+<layer number="38" name="bTest" color="7" fill="1" visible="yes" active="no"/>
 <layer number="39" name="tKeepout" color="4" fill="11" visible="no" active="no"/>
 <layer number="40" name="bKeepout" color="1" fill="11" visible="no" active="no"/>
 <layer number="41" name="tRestrict" color="4" fill="10" visible="no" active="no"/>
@@ -54,19 +54,19 @@
 <layer number="43" name="vRestrict" color="2" fill="10" visible="no" active="no"/>
 <layer number="44" name="Drills" color="7" fill="1" visible="no" active="no"/>
 <layer number="45" name="Holes" color="7" fill="1" visible="no" active="no"/>
-<layer number="46" name="Milling" color="3" fill="1" visible="no" active="no"/>
-<layer number="47" name="Measures" color="7" fill="1" visible="no" active="no"/>
-<layer number="48" name="Document" color="7" fill="1" visible="no" active="no"/>
-<layer number="49" name="Reference" color="7" fill="1" visible="no" active="no"/>
-<layer number="50" name="dxf" color="7" fill="1" visible="no" active="no"/>
-<layer number="51" name="tDocu" color="6" fill="1" visible="no" active="no"/>
-<layer number="52" name="bDocu" color="7" fill="1" visible="no" active="no"/>
-<layer number="53" name="tGND_GNDA" color="7" fill="9" visible="no" active="no"/>
-<layer number="54" name="bGND_GNDA" color="1" fill="9" visible="no" active="no"/>
-<layer number="56" name="wert" color="7" fill="1" visible="no" active="no"/>
-<layer number="57" name="tCAD" color="7" fill="1" visible="no" active="no"/>
-<layer number="59" name="tCarbon" color="7" fill="1" visible="no" active="no"/>
-<layer number="60" name="bCarbon" color="7" fill="1" visible="no" active="no"/>
+<layer number="46" name="Milling" color="3" fill="1" visible="yes" active="no"/>
+<layer number="47" name="Measures" color="7" fill="1" visible="yes" active="no"/>
+<layer number="48" name="Document" color="7" fill="1" visible="yes" active="no"/>
+<layer number="49" name="Reference" color="7" fill="1" visible="yes" active="no"/>
+<layer number="50" name="dxf" color="7" fill="1" visible="yes" active="no"/>
+<layer number="51" name="tDocu" color="6" fill="1" visible="yes" active="no"/>
+<layer number="52" name="bDocu" color="7" fill="1" visible="yes" active="no"/>
+<layer number="53" name="tGND_GNDA" color="7" fill="9" visible="yes" active="no"/>
+<layer number="54" name="bGND_GNDA" color="1" fill="9" visible="yes" active="no"/>
+<layer number="56" name="wert" color="7" fill="1" visible="yes" active="no"/>
+<layer number="57" name="tCAD" color="7" fill="1" visible="yes" active="no"/>
+<layer number="59" name="tCarbon" color="7" fill="1" visible="yes" active="no"/>
+<layer number="60" name="bCarbon" color="7" fill="1" visible="yes" active="no"/>
 <layer number="88" name="SimResults" color="9" fill="1" visible="yes" active="yes"/>
 <layer number="89" name="SimProbes" color="9" fill="1" visible="yes" active="yes"/>
 <layer number="90" name="Modules" color="5" fill="1" visible="yes" active="yes"/>
@@ -22876,63 +22876,6 @@ Commonly used for small ceramic capacitors. Like our 0.1uF (http://www.sparkfun.
 </device>
 </devices>
 </deviceset>
-<deviceset name="4.7UF" prefix="C">
-<description>&lt;h3&gt;4.7µF ceramic capacitors&lt;/h3&gt;
-&lt;p&gt;A capacitor is a passive two-terminal electrical component used to store electrical energy temporarily in an electric field.&lt;/p&gt;</description>
-<gates>
-<gate name="G$1" symbol="CAP" x="0" y="-2.54"/>
-</gates>
-<devices>
-<device name="-0603-6.3V-(10%)" package="0603">
-<connects>
-<connect gate="G$1" pin="1" pad="1"/>
-<connect gate="G$1" pin="2" pad="2"/>
-</connects>
-<technologies>
-<technology name="">
-<attribute name="PROD_ID" value="CAP-08280"/>
-<attribute name="VALUE" value="4.7uF"/>
-</technology>
-</technologies>
-</device>
-<device name="-1206-16V-(+80/-20%)" package="1206">
-<connects>
-<connect gate="G$1" pin="1" pad="1"/>
-<connect gate="G$1" pin="2" pad="2"/>
-</connects>
-<technologies>
-<technology name="">
-<attribute name="PROD_ID" value="CAP-10300" constant="no"/>
-<attribute name="VALUE" value="4.7uF" constant="no"/>
-</technology>
-</technologies>
-</device>
-<device name="-0603-35V-(20%)" package="0603">
-<connects>
-<connect gate="G$1" pin="1" pad="1"/>
-<connect gate="G$1" pin="2" pad="2"/>
-</connects>
-<technologies>
-<technology name="">
-<attribute name="PROD_ID" value="CAP-14106"/>
-<attribute name="VALUE" value="4.7uF"/>
-</technology>
-</technologies>
-</device>
-<device name="-0402_TIGHT-6.3V-20%-X5R" package="0402-TIGHT">
-<connects>
-<connect gate="G$1" pin="1" pad="1"/>
-<connect gate="G$1" pin="2" pad="2"/>
-</connects>
-<technologies>
-<technology name="">
-<attribute name="PROD_ID" value="CAP-14240"/>
-<attribute name="VALUE" value="4.7uF"/>
-</technology>
-</technologies>
-</device>
-</devices>
-</deviceset>
 <deviceset name="10UF" prefix="C">
 <description>&lt;h3&gt;10.0µF ceramic capacitors&lt;/h3&gt;
 &lt;p&gt;A capacitor is a passive two-terminal electrical component used to store electrical energy temporarily in an electric field.&lt;/p&gt;</description>
@@ -25164,13 +25107,13 @@ remain powered at all times&lt;/p&gt;</description>
 <part name="STANDOFF1" library="SparkFun-Electromechanical" deviceset="STAND-OFF" device=""/>
 <part name="FID1" library="SparkFun-Aesthetics" deviceset="FIDUCIAL" device="1X2" value="FIDUCIAL1X2"/>
 <part name="FID2" library="SparkFun-Aesthetics" deviceset="FIDUCIAL" device="1X2" value="FIDUCIAL1X2"/>
-<part name="C3" library="SparkFun-Capacitors" deviceset="0.1UF" device="-0603-25V-(+80/-20%)" value="0.1uF"/>
+<part name="C3" library="SparkFun-Capacitors" deviceset="0.1UF" device="-0402-16V-10%" value="0.1uF"/>
 <part name="GND4" library="SparkFun-Aesthetics" deviceset="GND" device=""/>
 <part name="LOGO1" library="SparkFun-Aesthetics" deviceset="SFE_LOGO_NAME_FLAME" device=".1_INCH"/>
 <part name="LOGO2" library="SparkFun-Aesthetics" deviceset="OSHW-LOGO" device="S"/>
 <part name="FRAME1" library="SparkFun-Aesthetics" deviceset="FRAME-LETTER" device=""/>
-<part name="C1" library="SparkFun-Capacitors" deviceset="0.1UF" device="-0603-25V-(+80/-20%)" value="0.1uF"/>
-<part name="C4" library="SparkFun-Capacitors" deviceset="4.7UF" device="-0603-6.3V-(10%)" value="4.7uF"/>
+<part name="C1" library="SparkFun-Capacitors" deviceset="0.1UF" device="-0402-16V-10%" value="0.1uF"/>
+<part name="C4" library="SparkFun-Capacitors" deviceset="10UF" device="-0603-6.3V-20%" value="10uF"/>
 <part name="U1" library="SparkFun-PowerIC" deviceset="V_REG_SP6214" device="1.8V" value="1.8V/100mA"/>
 <part name="GND1" library="SparkFun-Aesthetics" deviceset="GND" device=""/>
 <part name="GND2" library="SparkFun-Aesthetics" deviceset="GND" device=""/>
@@ -25182,7 +25125,7 @@ remain powered at all times&lt;/p&gt;</description>
 <part name="GND7" library="SparkFun-Aesthetics" deviceset="GND" device=""/>
 <part name="GND8" library="SparkFun-Aesthetics" deviceset="GND" device=""/>
 <part name="LOGO4" library="SparkFun-Aesthetics" deviceset="SFE_LOGO_FLAME" device=".1_INCH" value="SFE_LOGO_FLAME.1_INCH"/>
-<part name="C5" library="SparkFun-Capacitors" deviceset="10UF" device="-0805-10V-10%" value="10uF"/>
+<part name="C5" library="SparkFun-Capacitors" deviceset="10UF" device="-0603-6.3V-20%" value="10uF"/>
 <part name="J1" library="SparkFun-Connectors" deviceset="I2C_STANDARD" device="_NO_SILK" value="PTH"/>
 <part name="J3" library="SparkFun-Connectors" deviceset="QWIIC_CONNECTOR" device="JS-1MM" value="QWIIC_RA"/>
 <part name="J4" library="SparkFun-Connectors" deviceset="CONN_01" device="PTH_NO_SILK_YES_STOP"/>
@@ -25230,36 +25173,40 @@ remain powered at all times&lt;/p&gt;</description>
 <part name="U2" library="SparkFun-IC-Special-Function" deviceset="MAX30101EFD" device=""/>
 <part name="SUPPLY9" library="SparkFun-Aesthetics" deviceset="1.8V" device=""/>
 <part name="SUPPLY15" library="SparkFun-PowerSymbols" deviceset="5V" device=""/>
+<part name="C7" library="SparkFun-Capacitors" deviceset="10UF" device="-0603-6.3V-20%" value="10uF"/>
+<part name="C8" library="SparkFun-Capacitors" deviceset="0.1UF" device="-0402-16V-10%" value="0.1uF"/>
+<part name="GND6" library="SparkFun-Aesthetics" deviceset="GND" device=""/>
+<part name="GND17" library="SparkFun-Aesthetics" deviceset="GND" device=""/>
 </parts>
 <sheets>
 <sheet>
 <plain>
-<text x="96.52" y="60.96" size="2.54" layer="97" font="vector">7-Bit I2C: 0x57</text>
-<text x="238.76" y="7.62" size="1.778" layer="94" font="vector">v10</text>
+<text x="111.76" y="60.96" size="2.54" layer="97" font="vector">7-Bit I2C: 0x57</text>
+<text x="238.76" y="7.62" size="1.778" layer="94" font="vector">v11</text>
 <text x="170.688" y="11.43" size="2.54" layer="94" font="vector">Pete Lewis</text>
 <wire x1="106.68" y1="185.42" x2="106.68" y2="127" width="0.2032" layer="97" style="longdash"/>
 <wire x1="106.68" y1="127" x2="0" y2="127" width="0.2032" layer="97" style="longdash"/>
-<wire x1="152.4" y1="53.34" x2="0" y2="53.34" width="0.2032" layer="97" style="longdash"/>
+<wire x1="160.02" y1="53.34" x2="0" y2="53.34" width="0.2032" layer="97" style="longdash"/>
 <text x="5.08" y="177.8" size="2.54" layer="94" font="vector" ratio="10">Voltage Regulation</text>
 <text x="111.76" y="177.8" size="2.54" layer="94" font="vector" ratio="10">Logic Conversion</text>
 <text x="86.36" y="119.38" size="2.54" layer="94" font="vector" ratio="10">Sensor</text>
 <text x="12.446" y="171.704" size="1.778" layer="97" font="vector">Input Voltage: 3.3V (Qwiic)</text>
 <text x="168.656" y="175.006" size="1.778" layer="97" font="vector">Clear Jumper to remove 
 I2C Pull-ups from bus</text>
-<text x="208.026" y="99.314" size="1.778" layer="97" font="vector">Clear Jumper to remove 
+<text x="210.566" y="99.314" size="1.778" layer="97" font="vector">Clear Jumper to remove 
 pull-up from INT</text>
-<text x="86.36" y="99.06" size="1.27" layer="97" font="vector">Logic is 1.8V
+<text x="101.6" y="99.06" size="1.27" layer="97" font="vector">Logic is 1.8V
 5V for LED Driver</text>
 <text x="40.894" y="132.588" size="1.27" layer="97" font="vector">BP connected to GND
 for thermal performance</text>
 <text x="5.08" y="45.72" size="2.54" layer="94" font="vector" ratio="10">I2C Connections</text>
 <text x="149.86" y="7.62" size="1.778" layer="94" font="vector">Based on a design for the MAX30105 by N. Seidle</text>
-<text x="180.848" y="106.172" size="1.778" layer="97" font="vector" rot="R180">Clear Jumper 
+<text x="183.388" y="106.172" size="1.778" layer="97" font="vector" rot="R180">Clear Jumper 
 to disable LED</text>
-<wire x1="248.92" y1="127" x2="152.4" y2="127" width="0.2032" layer="97" style="longdash"/>
-<wire x1="152.4" y1="127" x2="106.68" y2="127" width="0.2032" layer="97" style="longdash"/>
+<wire x1="248.92" y1="127" x2="160.02" y2="127" width="0.2032" layer="97" style="longdash"/>
+<wire x1="160.02" y1="127" x2="106.68" y2="127" width="0.2032" layer="97" style="longdash"/>
 <text x="5.08" y="119.38" size="2.54" layer="94" font="vector">DC-DC Converter</text>
-<wire x1="152.4" y1="127" x2="152.4" y2="53.34" width="0.2032" layer="97" style="longdash"/>
+<wire x1="160.02" y1="127" x2="160.02" y2="53.34" width="0.2032" layer="97" style="longdash"/>
 <wire x1="78.74" y1="127" x2="78.74" y2="53.34" width="0.2032" layer="97" style="longdash"/>
 <text x="86.36" y="116.84" size="1.27" layer="97" font="vector">Typical current consuption: 600-1100 uA</text>
 <text x="86.36" y="110.49" size="1.27" layer="97" font="vector">VCC Range: 1.7 - 2.0V
@@ -25313,15 +25260,15 @@ VCC GREEN LED: 4.5 - 5.5V</text>
 <instance part="GND3" gate="1" x="81.28" y="139.7" smashed="yes">
 <attribute name="VALUE" x="78.74" y="137.16" size="1.778" layer="96" font="vector"/>
 </instance>
-<instance part="JP2" gate="G$1" x="205.74" y="101.6" smashed="yes" rot="R90">
-<attribute name="VALUE" x="203.962" y="99.822" size="1.778" layer="96" font="vector" rot="R90"/>
+<instance part="JP2" gate="G$1" x="208.28" y="101.6" smashed="yes" rot="R90">
+<attribute name="VALUE" x="206.502" y="99.822" size="1.778" layer="96" font="vector" rot="R90"/>
 </instance>
-<instance part="R5" gate="G$1" x="205.74" y="88.9" smashed="yes" rot="MR90">
-<attribute name="NAME" x="207.2386" y="85.09" size="1.778" layer="95" font="vector" rot="MR90"/>
-<attribute name="VALUE" x="202.438" y="85.09" size="1.778" layer="96" font="vector" rot="MR90"/>
+<instance part="R5" gate="G$1" x="208.28" y="88.9" smashed="yes" rot="MR90">
+<attribute name="NAME" x="209.7786" y="85.09" size="1.778" layer="95" font="vector" rot="MR90"/>
+<attribute name="VALUE" x="204.978" y="85.09" size="1.778" layer="96" font="vector" rot="MR90"/>
 </instance>
-<instance part="GND5" gate="1" x="96.52" y="73.66" smashed="yes">
-<attribute name="VALUE" x="93.98" y="71.12" size="1.778" layer="96" font="vector"/>
+<instance part="GND5" gate="1" x="111.76" y="73.66" smashed="yes">
+<attribute name="VALUE" x="109.22" y="71.12" size="1.778" layer="96" font="vector"/>
 </instance>
 <instance part="GND7" gate="1" x="33.02" y="139.7" smashed="yes">
 <attribute name="VALUE" x="30.48" y="137.16" size="1.778" layer="96" font="vector"/>
@@ -25371,25 +25318,25 @@ VCC GREEN LED: 4.5 - 5.5V</text>
 <instance part="SUPPLY13" gate="G$1" x="15.24" y="157.48" smashed="yes">
 <attribute name="VALUE" x="15.24" y="160.274" size="1.778" layer="96" font="vector" align="bottom-center"/>
 </instance>
-<instance part="SUPPLY1" gate="G$1" x="205.74" y="109.22" smashed="yes">
-<attribute name="VALUE" x="205.74" y="112.014" size="1.778" layer="96" font="vector" align="bottom-center"/>
+<instance part="SUPPLY1" gate="G$1" x="208.28" y="109.22" smashed="yes">
+<attribute name="VALUE" x="208.28" y="112.014" size="1.778" layer="96" font="vector" align="bottom-center"/>
 </instance>
-<instance part="D1" gate="G$1" x="182.88" y="81.28" smashed="yes">
-<attribute name="NAME" x="179.451" y="76.708" size="1.778" layer="95" font="vector" rot="R90"/>
-<attribute name="VALUE" x="184.785" y="76.708" size="1.778" layer="96" font="vector" rot="R90" align="top-left"/>
+<instance part="D1" gate="G$1" x="185.42" y="81.28" smashed="yes">
+<attribute name="NAME" x="181.991" y="76.708" size="1.778" layer="95" font="vector" rot="R90"/>
+<attribute name="VALUE" x="187.325" y="76.708" size="1.778" layer="96" font="vector" rot="R90" align="top-left"/>
 </instance>
-<instance part="R3" gate="G$1" x="182.88" y="91.44" smashed="yes" rot="R270">
-<attribute name="NAME" x="184.404" y="91.44" size="1.778" layer="95" font="vector" rot="R270" align="bottom-center"/>
-<attribute name="VALUE" x="181.356" y="91.44" size="1.778" layer="96" font="vector" rot="R270" align="top-center"/>
+<instance part="R3" gate="G$1" x="185.42" y="91.44" smashed="yes" rot="R270">
+<attribute name="NAME" x="186.944" y="91.44" size="1.778" layer="95" font="vector" rot="R270" align="bottom-center"/>
+<attribute name="VALUE" x="183.896" y="91.44" size="1.778" layer="96" font="vector" rot="R270" align="top-center"/>
 </instance>
-<instance part="SUPPLY3" gate="G$1" x="182.88" y="111.76" smashed="yes">
-<attribute name="VALUE" x="182.88" y="114.554" size="1.778" layer="96" align="bottom-center"/>
+<instance part="SUPPLY3" gate="G$1" x="185.42" y="111.76" smashed="yes">
+<attribute name="VALUE" x="185.42" y="114.554" size="1.778" layer="96" align="bottom-center"/>
 </instance>
-<instance part="GND12" gate="1" x="182.88" y="71.12" smashed="yes">
-<attribute name="VALUE" x="182.88" y="70.866" size="1.778" layer="96" align="top-center"/>
+<instance part="GND12" gate="1" x="185.42" y="71.12" smashed="yes">
+<attribute name="VALUE" x="185.42" y="70.866" size="1.778" layer="96" align="top-center"/>
 </instance>
-<instance part="JP1" gate="G$1" x="182.88" y="104.14" smashed="yes" rot="R90">
-<attribute name="VALUE" x="184.658" y="101.6" size="1.778" layer="96" font="vector" rot="R90" align="top-left"/>
+<instance part="JP1" gate="G$1" x="185.42" y="104.14" smashed="yes" rot="R90">
+<attribute name="VALUE" x="187.198" y="101.6" size="1.778" layer="96" font="vector" rot="R90" align="top-left"/>
 </instance>
 <instance part="JP4" gate="G$1" x="185.42" y="160.02" smashed="yes" rot="MR270">
 <attribute name="VALUE" x="180.594" y="156.083" size="1.778" layer="96" font="vector" rot="MR180" align="top-left"/>
@@ -25479,15 +25426,29 @@ VCC GREEN LED: 4.5 - 5.5V</text>
 </instance>
 <instance part="FID3" gate="G$1" x="229.616" y="26.416" smashed="yes"/>
 <instance part="FID4" gate="G$1" x="229.616" y="31.496" smashed="yes"/>
-<instance part="U2" gate="G$1" x="114.3" y="83.82" smashed="yes">
-<attribute name="NAME" x="112.522" y="91.948" size="1.778" layer="95"/>
-<attribute name="VALUE" x="105.918" y="72.898" size="1.778" layer="96"/>
+<instance part="U2" gate="G$1" x="129.54" y="83.82" smashed="yes">
+<attribute name="NAME" x="127.762" y="91.948" size="1.778" layer="95"/>
+<attribute name="VALUE" x="121.158" y="72.898" size="1.778" layer="96"/>
 </instance>
-<instance part="SUPPLY9" gate="G$1" x="96.52" y="91.44" smashed="yes">
-<attribute name="VALUE" x="95.504" y="94.488" size="1.778" layer="96" font="vector"/>
+<instance part="SUPPLY9" gate="G$1" x="91.44" y="91.44" smashed="yes">
+<attribute name="VALUE" x="90.424" y="94.488" size="1.778" layer="96" font="vector"/>
 </instance>
-<instance part="SUPPLY15" gate="G$1" x="91.44" y="91.44" smashed="yes">
-<attribute name="VALUE" x="91.44" y="94.234" size="1.778" layer="96" font="vector" align="bottom-center"/>
+<instance part="SUPPLY15" gate="G$1" x="106.68" y="91.44" smashed="yes">
+<attribute name="VALUE" x="106.68" y="94.234" size="1.778" layer="96" font="vector" align="bottom-center"/>
+</instance>
+<instance part="C7" gate="G$1" x="101.6" y="78.74" smashed="yes">
+<attribute name="NAME" x="103.124" y="81.661" size="1.778" layer="95" font="vector"/>
+<attribute name="VALUE" x="103.124" y="76.581" size="1.778" layer="96" font="vector"/>
+</instance>
+<instance part="C8" gate="G$1" x="91.44" y="78.74" smashed="yes">
+<attribute name="NAME" x="92.964" y="81.661" size="1.778" layer="95" font="vector"/>
+<attribute name="VALUE" x="92.964" y="76.581" size="1.778" layer="96" font="vector"/>
+</instance>
+<instance part="GND6" gate="1" x="101.6" y="71.12" smashed="yes">
+<attribute name="VALUE" x="99.06" y="68.58" size="1.778" layer="96" font="vector"/>
+</instance>
+<instance part="GND17" gate="1" x="91.44" y="71.12" smashed="yes">
+<attribute name="VALUE" x="88.9" y="68.58" size="1.778" layer="96" font="vector"/>
 </instance>
 </instances>
 <busses>
@@ -25516,10 +25477,10 @@ VCC GREEN LED: 4.5 - 5.5V</text>
 <wire x1="81.28" y1="142.24" x2="81.28" y2="144.78" width="0.1524" layer="91"/>
 </segment>
 <segment>
-<wire x1="96.52" y1="78.74" x2="96.52" y2="76.2" width="0.1524" layer="91"/>
+<wire x1="111.76" y1="78.74" x2="111.76" y2="76.2" width="0.1524" layer="91"/>
 <pinref part="GND5" gate="1" pin="GND"/>
 <pinref part="U2" gate="G$1" pin="GND"/>
-<wire x1="96.52" y1="78.74" x2="99.06" y2="78.74" width="0.1524" layer="91"/>
+<wire x1="111.76" y1="78.74" x2="114.3" y2="78.74" width="0.1524" layer="91"/>
 </segment>
 <segment>
 <pinref part="C1" gate="G$1" pin="2"/>
@@ -25553,7 +25514,7 @@ VCC GREEN LED: 4.5 - 5.5V</text>
 <segment>
 <pinref part="D1" gate="G$1" pin="C"/>
 <pinref part="GND12" gate="1" pin="GND"/>
-<wire x1="182.88" y1="76.2" x2="182.88" y2="73.66" width="0.1524" layer="91"/>
+<wire x1="185.42" y1="76.2" x2="185.42" y2="73.66" width="0.1524" layer="91"/>
 </segment>
 <segment>
 <pinref part="U3" gate="G$1" pin="PGND"/>
@@ -25579,6 +25540,16 @@ VCC GREEN LED: 4.5 - 5.5V</text>
 <pinref part="C6" gate="G$1" pin="2"/>
 <wire x1="66.04" y1="71.12" x2="66.04" y2="68.58" width="0.1524" layer="91"/>
 <pinref part="GND16" gate="1" pin="GND"/>
+</segment>
+<segment>
+<pinref part="GND17" gate="1" pin="GND"/>
+<pinref part="C8" gate="G$1" pin="2"/>
+<wire x1="91.44" y1="73.66" x2="91.44" y2="76.2" width="0.1524" layer="91"/>
+</segment>
+<segment>
+<pinref part="GND6" gate="1" pin="GND"/>
+<pinref part="C7" gate="G$1" pin="2"/>
+<wire x1="101.6" y1="73.66" x2="101.6" y2="76.2" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="SDA" class="0">
@@ -25635,8 +25606,8 @@ VCC GREEN LED: 4.5 - 5.5V</text>
 </net>
 <net name="LV_SCL" class="0">
 <segment>
-<wire x1="129.54" y1="83.82" x2="132.08" y2="83.82" width="0.1524" layer="91"/>
-<label x="132.08" y="83.82" size="1.27" layer="95" font="vector" rot="MR180" xref="yes"/>
+<wire x1="144.78" y1="83.82" x2="147.32" y2="83.82" width="0.1524" layer="91"/>
+<label x="147.32" y="83.82" size="1.27" layer="95" font="vector" rot="MR180" xref="yes"/>
 <pinref part="U2" gate="G$1" pin="SCL"/>
 </segment>
 <segment>
@@ -25651,8 +25622,8 @@ VCC GREEN LED: 4.5 - 5.5V</text>
 </net>
 <net name="LV_SDA" class="0">
 <segment>
-<wire x1="129.54" y1="86.36" x2="132.08" y2="86.36" width="0.1524" layer="91"/>
-<label x="132.08" y="86.36" size="1.27" layer="95" font="vector" rot="MR180" xref="yes"/>
+<wire x1="144.78" y1="86.36" x2="147.32" y2="86.36" width="0.1524" layer="91"/>
+<label x="147.32" y="86.36" size="1.27" layer="95" font="vector" rot="MR180" xref="yes"/>
 <pinref part="U2" gate="G$1" pin="SDA"/>
 </segment>
 <segment>
@@ -25706,22 +25677,25 @@ VCC GREEN LED: 4.5 - 5.5V</text>
 <wire x1="116.84" y1="20.32" x2="114.3" y2="20.32" width="0.1524" layer="91"/>
 </segment>
 <segment>
-<wire x1="96.52" y1="88.9" x2="96.52" y2="91.44" width="0.1524" layer="91"/>
+<wire x1="91.44" y1="88.9" x2="91.44" y2="91.44" width="0.1524" layer="91"/>
 <pinref part="SUPPLY9" gate="G$1" pin="1.8V"/>
 <pinref part="U2" gate="G$1" pin="VDD"/>
-<wire x1="99.06" y1="88.9" x2="96.52" y2="88.9" width="0.1524" layer="91"/>
+<wire x1="114.3" y1="88.9" x2="91.44" y2="88.9" width="0.1524" layer="91"/>
+<junction x="91.44" y="88.9"/>
+<pinref part="C8" gate="G$1" pin="1"/>
+<wire x1="91.44" y1="88.9" x2="91.44" y2="83.82" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="!INT" class="0">
 <segment>
-<label x="203.2" y="81.28" size="1.27" layer="95" font="vector" rot="MR0" xref="yes"/>
+<label x="205.74" y="81.28" size="1.27" layer="95" font="vector" rot="MR0" xref="yes"/>
 <pinref part="R5" gate="G$1" pin="1"/>
-<wire x1="205.74" y1="81.28" x2="203.2" y2="81.28" width="0.1524" layer="91"/>
-<wire x1="205.74" y1="83.82" x2="205.74" y2="81.28" width="0.1524" layer="91"/>
+<wire x1="208.28" y1="81.28" x2="205.74" y2="81.28" width="0.1524" layer="91"/>
+<wire x1="208.28" y1="83.82" x2="208.28" y2="81.28" width="0.1524" layer="91"/>
 </segment>
 <segment>
-<wire x1="129.54" y1="88.9" x2="132.08" y2="88.9" width="0.1524" layer="91"/>
-<label x="132.08" y="88.9" size="1.27" layer="95" font="vector" xref="yes"/>
+<wire x1="144.78" y1="88.9" x2="147.32" y2="88.9" width="0.1524" layer="91"/>
+<label x="147.32" y="88.9" size="1.27" layer="95" font="vector" xref="yes"/>
 <pinref part="U2" gate="G$1" pin="!INT"/>
 </segment>
 <segment>
@@ -25734,7 +25708,7 @@ VCC GREEN LED: 4.5 - 5.5V</text>
 <segment>
 <pinref part="R5" gate="G$1" pin="2"/>
 <pinref part="JP2" gate="G$1" pin="1"/>
-<wire x1="205.74" y1="96.52" x2="205.74" y2="93.98" width="0.1524" layer="91"/>
+<wire x1="208.28" y1="96.52" x2="208.28" y2="93.98" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="3.3V" class="0">
@@ -25777,11 +25751,11 @@ VCC GREEN LED: 4.5 - 5.5V</text>
 <segment>
 <pinref part="JP2" gate="G$1" pin="2"/>
 <pinref part="SUPPLY1" gate="G$1" pin="3.3V"/>
-<wire x1="205.74" y1="109.22" x2="205.74" y2="106.68" width="0.1524" layer="91"/>
+<wire x1="208.28" y1="109.22" x2="208.28" y2="106.68" width="0.1524" layer="91"/>
 </segment>
 <segment>
 <pinref part="SUPPLY3" gate="G$1" pin="3.3V"/>
-<wire x1="182.88" y1="111.76" x2="182.88" y2="109.22" width="0.1524" layer="91"/>
+<wire x1="185.42" y1="111.76" x2="185.42" y2="109.22" width="0.1524" layer="91"/>
 <pinref part="JP1" gate="G$1" pin="2"/>
 </segment>
 <segment>
@@ -25813,13 +25787,13 @@ VCC GREEN LED: 4.5 - 5.5V</text>
 <segment>
 <pinref part="R3" gate="G$1" pin="2"/>
 <pinref part="D1" gate="G$1" pin="A"/>
-<wire x1="182.88" y1="86.36" x2="182.88" y2="83.82" width="0.1524" layer="91"/>
+<wire x1="185.42" y1="86.36" x2="185.42" y2="83.82" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="N$8" class="0">
 <segment>
 <pinref part="R3" gate="G$1" pin="1"/>
-<wire x1="182.88" y1="99.06" x2="182.88" y2="96.52" width="0.1524" layer="91"/>
+<wire x1="185.42" y1="99.06" x2="185.42" y2="96.52" width="0.1524" layer="91"/>
 <pinref part="JP1" gate="G$1" pin="1"/>
 </segment>
 </net>
@@ -25866,9 +25840,13 @@ VCC GREEN LED: 4.5 - 5.5V</text>
 </segment>
 <segment>
 <pinref part="SUPPLY15" gate="G$1" pin="5V"/>
-<wire x1="91.44" y1="86.36" x2="91.44" y2="91.44" width="0.1524" layer="91"/>
+<wire x1="106.68" y1="86.36" x2="106.68" y2="91.44" width="0.1524" layer="91"/>
 <pinref part="U2" gate="G$1" pin="VDD_LED"/>
-<wire x1="99.06" y1="86.36" x2="91.44" y2="86.36" width="0.1524" layer="91"/>
+<wire x1="114.3" y1="86.36" x2="106.68" y2="86.36" width="0.1524" layer="91"/>
+<wire x1="106.68" y1="86.36" x2="101.6" y2="86.36" width="0.1524" layer="91"/>
+<junction x="106.68" y="86.36"/>
+<pinref part="C7" gate="G$1" pin="1"/>
+<wire x1="101.6" y1="86.36" x2="101.6" y2="83.82" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="N$3" class="0">

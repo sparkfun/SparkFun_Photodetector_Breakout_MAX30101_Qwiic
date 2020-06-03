@@ -1,7 +1,3 @@
-# 
-Breakout board for the MAX30101.
-
-
 SparkFun Photodetector Breakout - MAX30101 (Qwiic)
 ========================================
 

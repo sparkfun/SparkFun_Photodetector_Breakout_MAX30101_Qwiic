@@ -1,7 +1,7 @@
 SparkFun Photodetector Breakout - MAX30101 (Qwiic)
 ========================================
 
-[![SparkFun Photodetector Breakout - MAX30101 (Qwiic))](https://www.sparkfun.com/products/16474)](https://cdn.sparkfun.com/assets/parts/1/5/3/3/8/16474-SparkFun_Photodetector_Breakout_-_MAX30101__Qwiic_-01.jpg)
+[![SparkFun Photodetector Breakout - MAX30101)](https://cdn.sparkfun.com/assets/parts/1/5/3/3/8/16474-SparkFun_Photodetector_Breakout_-_MAX30101__Qwiic_-01.jpg)](https://www.sparkfun.com/products/16474)
 
 [*SparkFun Photodetector Breakout - MAX30101 (Qwiic) (SEN-16474)*](https://www.sparkfun.com/products/16474)
 
